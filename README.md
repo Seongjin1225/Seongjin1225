@@ -5,7 +5,8 @@
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
+ api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
 </div><br>
 <!--
 **Seongjin1225/Seongjin1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
