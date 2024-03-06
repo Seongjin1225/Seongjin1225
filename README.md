@@ -2,8 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin1225&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-##📫 Contact 📫
-<div align="center">
+## 📫 Contact 📫
+<div align="left">
   <a href="https://velog.io/@jin10">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
