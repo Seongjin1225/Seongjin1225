@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![SeongJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongjin1225&count_private=true&custom_title=SeongJinl's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin1225&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📞 Contact 📞
