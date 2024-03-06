@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seong_Jin&fontSize=90)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin1225&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact 📫
