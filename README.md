@@ -2,16 +2,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin1225&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:001225isj@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/seong_jin10">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+##📫 Contact 📫
+<div align="center">
+  <a href="https://velog.io/@jin10">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:001225isj@gmail.com">
+    <img
+      src="https://img.shields.io/badge/001225isj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
   
 ## 🔨 Language & Tool 🔨
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
