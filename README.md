@@ -1,19 +1,29 @@
 ### Hi there 👋
 
-## 💻 Study log 💻
+## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@jin10">
+    <a href="mailto:001225isj@gmail.com">
         <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    
+    <a href="https://www.instagram.com/seong_jin10">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=jin10)](https://github.com/bi-sz/velog-readme-stats)
+## 🔨 Language & Tool 🔨
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=white"/>
 
-</div><br>
-
-<!--
+## 🔨 Once I've Used 🔨
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+<!--    
 **Seongjin1225/Seongjin1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
